@@ -75,5 +75,3 @@
 📺CGTN频道,#genre#
 
 📺百视通频道,#genre#
-
-📺求索频道,#genre#
